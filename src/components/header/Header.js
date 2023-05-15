@@ -11,7 +11,7 @@ const Header = () => {
 })
 
   const[Toggle, showMenu]=useState(false);
-  const[activeNav, setActiveNav]=useState("#home");
+  const[, setActiveNav]=useState("#home");
 
   return (
    <header className="header">

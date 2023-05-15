@@ -23,6 +23,7 @@ function Footer() {
             href="https://www.instagram.com"
             className="footer_social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="bx bxl-instagram"></i>
           </a>
@@ -30,6 +31,7 @@ function Footer() {
             href="https://twitter.com"
             className="footer_social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="bx bxl-twitter"></i>
           </a>
@@ -37,6 +39,7 @@ function Footer() {
             href="https://github.com"
             className="footer_social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="bx bxl-github"></i>
           </a>
