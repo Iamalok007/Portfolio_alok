@@ -2,7 +2,7 @@ import React from 'react'
 import "./skills.css";
 import Backend from './Backend';
 import Frontend from './Frontend';
-import web3 from './Web3';
+import Web3 from './Web3';
 
 const Skills = () => {
   return (
