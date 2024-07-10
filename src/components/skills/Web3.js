@@ -3,7 +3,7 @@ import React from "react";
 const Web3 = () => {
   return (
     <div className="skills_content">
-      <h3 className="skills_title"><u>Web development</u></h3>
+      <h3 className="skills_title"><u>Web-3</u></h3>
 
       <div className="skills_box">
         <div className="skills_group">
@@ -11,7 +11,15 @@ const Web3 = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">HTML</h3>
+              <h3 className="skills_name">Solidity</h3>
+              <span className="skills_level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills_data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills_name">Hardhat</h3>
               <span className="skills_level">Basic</span>
             </div>
           </div>
@@ -19,15 +27,7 @@ const Web3 = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">CSS</h3>
-              <span className="skills_level">Basic</span>
-            </div>
-          </div>
-          <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills_name">Javascript</h3>
+              <h3 className="skills_name">Remix</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>
@@ -37,7 +37,7 @@ const Web3 = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">Bootstrap</h3>
+              <h3 className="skills_name">Ether.js</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Web3 = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">GIT</h3>
+              <h3 className="skills_name">Smart Contracts</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>
@@ -53,7 +53,7 @@ const Web3 = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills_name">React</h3>
+              <h3 className="skills_name">Ethereum</h3>
               <span className="skills_level">Intermediate</span>
             </div>
           </div>

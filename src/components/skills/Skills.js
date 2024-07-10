@@ -2,6 +2,7 @@ import React from 'react'
 import "./skills.css";
 import Backend from './Backend';
 import Frontend from './Frontend';
+import web3 from './Web3';
 
 const Skills = () => {
   return (
@@ -12,7 +13,7 @@ const Skills = () => {
         <div className="skills_container container grid">
             <Frontend />
             <Backend />
-            <web3/>
+            <Web3/>
 
         </div>
     </section>
